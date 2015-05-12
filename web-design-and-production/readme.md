@@ -297,14 +297,6 @@ Software and web development vectors.
 
 Icon Font included in Foundation framework.
 
-#### [**music-symbols-icons**](https://github.com/fmquaglia/music-symbols-icons)
-
-Based off [MusiQuick](http://www.fontspace.com/robert-allgeyer/musiqwik) (SIL Open Font License) prepared in [Fontello](http://fontello.com/).
-
-#### [**Map Icons**](http://map-icons.com/#icons)
-
-POI Icons.
-
 #### [**IcoMoon-Free**](https://github.com/Keyamoon/IcoMoon-Free)
 
 A great starter set, the pro version is worth it.
@@ -316,6 +308,22 @@ Icont set from Iconic Framework.
 #### [**Ionicons**](http://ionicons.com/)
 
 Icon set from Ionic Framework. Not to be confused with above.
+
+#### [**Map Icons**](http://map-icons.com/#icons)
+
+POI Icons.
+
+#### [**Maki**](https://github.com/mapbox/maki)
+
+POI Icons by Mapbox.
+
+#### [**menu-to-cross-icon**](https://github.com/LukyVj/menu-to-cross-icon)
+
+Six methods to animate from hamburger to cross. But is the hamburger method really so clever...? ([The answer is sadly no](http://thenextweb.com/dd/2014/04/08/ux-designers-side-drawer-navigation-costing-half-user-engagement/)).
+
+#### [**music-symbols-icons**](https://github.com/fmquaglia/music-symbols-icons)
+
+Based off [MusiQuick](http://www.fontspace.com/robert-allgeyer/musiqwik) (SIL Open Font License) prepared in [Fontello](http://fontello.com/).
 
 #### [**Stackicons**](https://github.com/parkerbennett/stackicons)
 
@@ -330,14 +338,6 @@ Aggregate containing vectors from multiple icon sets.
 #### [**octicons**](https://github.com/github/octicons)
 
 GitHub's icon set.
-
-#### [**Maki**](https://github.com/mapbox/maki)
-
-POI Icons by Mapbox.
-
-#### [**menu-to-cross-icon**](https://github.com/LukyVj/menu-to-cross-icon)
-
-Six methods to animate from hamburger to cross. But is the hamburger method really so clever...? ([The answer is sadly no](http://thenextweb.com/dd/2014/04/08/ux-designers-side-drawer-navigation-costing-half-user-engagement/)).
 
 #### [**Weather-Icons**](http://erikflowers.github.io/weather-icons/)
 
