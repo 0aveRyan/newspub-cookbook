@@ -2,7 +2,7 @@
 
 ## :information_source: **INTRODUCTION**
 
-Powerful publishing tools for immersive, beautiful web journalism. Curated by [@dryanmedia](http://twitter.com/dryanmedia).
+Powerful publishing tools for immersive, beautiful web journalism.
 
 Tools sorted alphabetically.
 
@@ -67,3 +67,5 @@ Ingredients selected judiciously.
 ## :page_facing_up: CHANGELOG
 
  - **0.1** - 5.12.2015 -  Initial public commit.
+ 
+ *Curated by [@dryanmedia](http://twitter.com/dryanmedia).*
