@@ -30,8 +30,6 @@ Ingredients selected judiciously.
 
 :page_with_curl: [**Publishing**](/web-design-and-production/#publishing)
 
-:wrench: [**Workflow**](/web-design-and-production/#workflow)
-
 :radio: [**Audio**](/web-design-and-production/#audio)
 
 :movie_camera: [**Video**](/web-design-and-production/#video)
